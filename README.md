@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **pandulikith@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/sailikith3181/Sailikith-/blob/main/satarasala_sailikith.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/sailikith3181/Resume/blob/main/satarasala_sailikith.pdf)
 
 - ⚡ Fun fact **Love to learn new things**
 
